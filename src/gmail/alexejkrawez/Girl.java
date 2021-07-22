@@ -3,7 +3,7 @@ package gmail.alexejkrawez;
 /**
  * @name Java.SE.01
  * @package gmail.alexejkrawez;
- * @file Main.java
+ * @file Girl.java
  * @author Alexej Krawez
  * @email AlexejKrawez@gmail.com
  * @create 24.11.2018
